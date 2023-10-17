@@ -65,3 +65,7 @@ We make a button to hop to the Servers tab
 
 ### 7. Using Relative Paths in Programmatic Navigation
 
+Made a button that does not work
+
+### 8. Passing Parameters to Routes
+
